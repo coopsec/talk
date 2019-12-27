@@ -1,8 +1,8 @@
 ## Settings
 title: pRoJEct-NeGYa
 owner: "DeerRIDER"
-url: "https://akiritsu.github.io"
-baseurl: "coopsec/talk"
+url: "https://https://github.com/coopsec"
+baseurl: "/talk"
 permalink: /:title/
 description: ""
 markdown: kramdown
