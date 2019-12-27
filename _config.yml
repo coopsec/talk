@@ -2,7 +2,7 @@
 title: CoopSec
 owner: "CoopSec"
 url: "https://coopsec.github.io"
-baseurl: "/pRoJEct-NeGYa"
+baseurl: "/talk"
 permalink: /:title/
 description: ""
 markdown: kramdown
