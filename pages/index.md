@@ -8,7 +8,7 @@ footer: true
 title: ""
 author: ""
 encrypted_text: true
-permalink: 
+permalink: /
 ---
 
 # Welcome to CoopSec.COM Main website
