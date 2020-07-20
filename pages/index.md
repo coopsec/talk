@@ -17,13 +17,6 @@ This website is currently under construction. The Purpose and intent of COOPSEC.
 
 One of the best things about this community is it is designed for Coops and contributed by Coops.
 
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "8132353",
-	formId: "1c75bdb0-5113-47ed-814d-ccae10895ac3"
-});
-</script>
 
 ```ruby
 Keep an eye out for the changes that will be coming here soon.
