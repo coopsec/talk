@@ -1,7 +1,7 @@
 ## Settings
 title: CoopSec
 owner: "CoopSec"
-url: "https://coopsec.github.io"
+url: "https://coopsec.com"
 baseurl: "/talk"
 permalink: /:title/
 description: ""
