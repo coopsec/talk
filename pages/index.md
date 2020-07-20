@@ -11,10 +11,13 @@ encrypted_text: true
 permalink: /
 ---
 
-# Welcome to CoopSec Main website
+# Welcome to CoopSec.COM Main website
 ##  Features
-One of the best things about this community is it is designed for Coops by Coops. 
-talk.coopsec.com
+This website is currently under construction. The Purpose and intent of COOPSEC.COM is to provide a free resource for the Electric Cooperative Community and a place for colaberation of for Information Security resources, blogs and interesting projects. 
+
+One of the best things about this community is it is designed for Coops by Coops.
+
+
 
 ```ruby
 # Ruby code with syntax highlighting
