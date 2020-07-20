@@ -11,7 +11,7 @@ headers:
 Access-Control-Allow-Origin: "*"
 ## Global Variables
 email: "root@coopsec.com"
-#github: "coopsec"
+github: "coopsec"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by CoopSec, All Rights Reserved"
