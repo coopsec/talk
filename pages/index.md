@@ -29,3 +29,7 @@ One of the best things about this community is it is designed for Coops and cont
 Keep an eye out for the changes that will be coming here soon.
 ```
 ## Downloads, Documentation and Resources
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8132353.js"></script>
+<!-- End of HubSpot Embed Code -->
