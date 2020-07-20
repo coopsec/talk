@@ -20,9 +20,6 @@ One of the best things about this community is it is designed for Coops by Coops
 
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+Keep an eye out for the changes that will be coming here soon.
 ```
 ## Download and Documentation
